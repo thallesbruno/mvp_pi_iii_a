@@ -1,0 +1,143 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "nANmOEJlvhDDi9yDLy_Qi",
+      "type": "text",
+      "x": 545,
+      "y": 18,
+      "width": 395.79644775390625,
+      "height": 285.2669510971199,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": null,
+      "seed": 952209358,
+      "version": 451,
+      "versionNonce": 376010194,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1794262586502,
+      "link": null,
+      "locked": false,
+      "text": "PI III-A (extensionista)\n\n- Código-fonte\n    - codificação (aula 2)\n    - segurança (aula 3)\n- Relatório\n- Vídeo de apresentação",
+      "fontSize": 32.601937268242274,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "PI III-A (extensionista)\n\n- Código-fonte\n    - codificação (aula 2)\n    - segurança (aula 3)\n- Relatório\n- Vídeo de apresentação",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "5C1VqYxIbixJCb6Rs5sVS",
+      "type": "text",
+      "x": 1135,
+      "y": -55.33332824707031,
+      "width": 711.0797119140625,
+      "height": 229.99999999999994,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a1",
+      "roundness": null,
+      "seed": 1266613458,
+      "version": 513,
+      "versionNonce": 1302305038,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "8JKgm7CIBj3CNh59HsVAb",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1794263267487,
+      "link": null,
+      "locked": false,
+      "text": "Minimum Viable Product - MVP\n\n- custo geralmente é menor\n- funcionalidade(s) + importante\n- funcionalidades extras ficam pra depois",
+      "fontSize": 39.99999999999999,
+      "fontFamily": 7,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Minimum Viable Product - MVP\n\n- custo geralmente é menor\n- funcionalidade(s) + importante\n- funcionalidades extras ficam pra depois",
+      "autoResize": true,
+      "lineHeight": 1.15
+    },
+    {
+      "id": "8JKgm7CIBj3CNh59HsVAb",
+      "type": "arrow",
+      "x": 797,
+      "y": 123.66667175292969,
+      "width": 321.0000000000002,
+      "height": 138.9054218413592,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a2",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 708451278,
+      "version": 401,
+      "versionNonce": 547702606,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1794263267487,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          321.0000000000002,
+          -138.9054218413592
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": {
+        "elementId": "5C1VqYxIbixJCb6Rs5sVS",
+        "focus": 0.878229486976609,
+        "gap": 16.999999999999773
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
